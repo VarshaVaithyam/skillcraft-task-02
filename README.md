@@ -1,2 +1,3 @@
-# skillcraft-task-02
-To do list
+# todo_list
+
+A new Flutter project.
